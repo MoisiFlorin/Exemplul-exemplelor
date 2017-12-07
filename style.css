@@ -1,0 +1,38 @@
+body {
+        background-color: white;
+        font-family: "Helvetica", sans-serif;
+        font-size: 15px;
+        margin-left: 3em;
+}
+
+h1 {
+        color: red;
+        font-size: 3em;
+}
+            
+h2 {
+        color: blue;
+        font-size: 2em;
+}
+                      
+#id-ex-p {
+        background-color: yellow;
+        font-weight: bold;
+}
+            
+#id-ex-h2 {
+        color: white;
+        background-color: purple;
+        font-style: italic;
+}
+            
+.class-ex {
+    color: white;
+    background-color: green;
+}
+
+.img-exemplu {
+    border-style: groove;
+    margin-right: 1009px;
+}
+            
