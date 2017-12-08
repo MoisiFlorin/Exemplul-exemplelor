@@ -1,8 +1,19 @@
+.container{
+    width: 500px;
+    margin: auto;
+    border: solid 5px grey;
+    border-radius: 5px;
+    padding: 15px;
+    text-align: center;
+    background-color: white;
+    
+}
+
 body {
         background-color: white;
         font-family: "Helvetica", sans-serif;
         font-size: 15px;
-        margin-left: 3em;
+        background-color: darkslategray;
 }
 
 h1 {
@@ -32,7 +43,35 @@ h2 {
 }
 
 .img-exemplu {
-    border-style: groove;
-    margin-right: 1009px;
+    border-style: solid;
+    margin: auto;
 }
-            
+
+.ordonata {
+    color: green;
+    text-decoration: underline;
+}
+
+.paragraf-lung{
+    background-color: grey;
+    width: 500px;
+    height: 200px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.paragraf-lung p{
+    margin-left: 15px;
+    color: white
+}
+
+.paragraf-lung h2{
+    text-align: center;
+}
+
+.scris-peste-img{
+    position: absolute;
+    top: 450px;
+    left: 917px;
+    color: red;
+}
